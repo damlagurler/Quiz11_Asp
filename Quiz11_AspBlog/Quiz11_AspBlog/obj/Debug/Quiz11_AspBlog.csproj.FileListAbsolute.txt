@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11_AspBlog\Quiz11_AspBlog\bin\Quiz11_AspBlog.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11_AspBlog\Quiz11_AspBlog\bin\Quiz11_AspBlog.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11_AspBlog\Quiz11_AspBlog\bin\Quiz11_AspBlog.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11_AspBlog\Quiz11_AspBlog\obj\Debug\Quiz11_AspBlog.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11_AspBlog\Quiz11_AspBlog\obj\Debug\Quiz11_AspBlog.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11_AspBlog\Quiz11_AspBlog\obj\Debug\Quiz11_AspBlog.pdb
+C:\Users\gurle\Desktop\Quiz11_AspBlog\Quiz11_AspBlog\obj\Debug\Quiz11_AspBlog.csprojResolveAssemblyReference.cache
+C:\Users\gurle\Desktop\Quiz11_AspBlog\Quiz11_AspBlog\obj\Debug\Quiz11_AspBlog.dll
+C:\Users\gurle\Desktop\Quiz11_AspBlog\Quiz11_AspBlog\obj\Debug\Quiz11_AspBlog.pdb
+C:\Users\gurle\Desktop\Quiz11_AspBlog\Quiz11_AspBlog\bin\Quiz11_AspBlog.dll.config
+C:\Users\gurle\Desktop\Quiz11_AspBlog\Quiz11_AspBlog\bin\Quiz11_AspBlog.dll
+C:\Users\gurle\Desktop\Quiz11_AspBlog\Quiz11_AspBlog\bin\Quiz11_AspBlog.pdb
